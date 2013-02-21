@@ -16,4 +16,4 @@ Scripts to generate a debian 6.0.6 vagrant box with some aditional packages
 * screen
 * dkms
 * lsof
-* sendmail
+* sendmail-bin
