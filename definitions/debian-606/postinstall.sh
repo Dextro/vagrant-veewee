@@ -23,4 +23,4 @@ apt-get -y install dkms
 apt-get -y install lsof
 
 # install sendmail
-apt-get -y install sendmail
+apt-get -y install sendmail-bin
