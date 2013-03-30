@@ -16,9 +16,6 @@ apt-get -y install git-core
 # install screen
 apt-get -y install screen
 
-# install dkms
-apt-get -y install dkms
-
 # install lsof
 apt-get -y install lsof
 
