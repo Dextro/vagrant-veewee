@@ -1,5 +1,7 @@
 #!/bin/bash
 
+gem install bundler
+
 bundle install
 
 bundle exec veewee vbox build 'debian-606' --force --auto --nogui
